@@ -117,7 +117,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(114, 33);
             this.button3.TabIndex = 3;
-            this.button3.Text = "CATEGORY";
+            this.button3.Text = "CATEGORIES";
             this.button3.UseVisualStyleBackColor = false;
             // 
             // button4
