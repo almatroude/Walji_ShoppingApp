@@ -16,7 +16,7 @@ namespace Walji_ShoppingApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ProductForm());
+            Application.Run(new CategoryForm());
         }
     }
 }
